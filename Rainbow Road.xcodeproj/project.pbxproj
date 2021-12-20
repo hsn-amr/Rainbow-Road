@@ -16,6 +16,7 @@
 		84BA751E275DFBB60078D271 /* Rainbow_RoadTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BA751D275DFBB60078D271 /* Rainbow_RoadTests.swift */; };
 		84BA7528275DFBB60078D271 /* Rainbow_RoadUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BA7527275DFBB60078D271 /* Rainbow_RoadUITests.swift */; };
 		84BA752A275DFBB60078D271 /* Rainbow_RoadUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BA7529275DFBB60078D271 /* Rainbow_RoadUITestsLaunchTests.swift */; };
+		84BA7539275E015B0078D271 /* CTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BA7538275E015B0078D271 /* CTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		84BA7523275DFBB60078D271 /* Rainbow RoadUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Rainbow RoadUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		84BA7527275DFBB60078D271 /* Rainbow_RoadUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rainbow_RoadUITests.swift; sourceTree = "<group>"; };
 		84BA7529275DFBB60078D271 /* Rainbow_RoadUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rainbow_RoadUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		84BA7538275E015B0078D271 /* CTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				84BA750F275DFBB60078D271 /* Assets.xcassets */,
 				84BA7511275DFBB60078D271 /* LaunchScreen.storyboard */,
 				84BA7514275DFBB60078D271 /* Info.plist */,
+				84BA7538275E015B0078D271 /* CTableViewCell.swift */,
 			);
 			path = "Rainbow Road";
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				84BA750B275DFBB40078D271 /* ViewController.swift in Sources */,
+				84BA7539275E015B0078D271 /* CTableViewCell.swift in Sources */,
 				84BA7507275DFBB40078D271 /* AppDelegate.swift in Sources */,
 				84BA7509275DFBB40078D271 /* SceneDelegate.swift in Sources */,
 			);
